@@ -3,7 +3,7 @@ layout: page
 title: Bio
 ---
 
-#### Work Experience
+Work Experience
 
 * Assistant Professor &ensp; (04/2024 - Present) \\
 -- KAIST 
@@ -17,9 +17,7 @@ title: Bio
 
 <br>
 
-#### Education
-##### Education
-###### Education
+Education
 
 * University of California, Davis \\
 -- <small> Ph.D. in Statistics (08/2021) </small> \\
