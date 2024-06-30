@@ -9,7 +9,7 @@ Preprints
   **Song, H.\***, Ma, N.\*, Plantinga, A.M., Wu, M.C.
   
 * [New graph-based multi-sample tests for high-dimensional and non-Euclidean data.](https://arxiv.org/pdf/2205.13787.pdf) \
-* **Song, H.**, Chen, H. &ensp; [R package: [gTestsMulti](https://cran.r-project.org/web/packages/gTestsMulti/index.html)]
+  **Song, H.**, Chen, H. &ensp; [R package: [gTestsMulti](https://cran.r-project.org/web/packages/gTestsMulti/index.html)]
   
 * [Practical and powerful kernel-based change-point detection.](https://arxiv.org/pdf/2206.01853.pdf)  \
   **Song, H.**, Chen, H. &ensp; [R package: [kerSeg](https://cran.r-project.org/web/packages/kerSeg/index.html)]
