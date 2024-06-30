@@ -32,10 +32,10 @@ Research Interests
 <center>
 <a href="mailto:hoseung@kaist.ac.kr" target="_blank" title="Email">
   <img alt="Email" src="https://hoseungs.github.io/assets/css/email.png" width="20" height="20" />
-</a>
+</a> &ensp;
 <a href="https://scholar.google.com/citations?hl=en&user=kTC7m0wAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" title="Google Scholar">
   <img alt="Google Scholar" src="https://hoseungs.github.io/assets/css/gs.png" width="20" height="20" />
-</a>
+</a> &ensp;
 <a href="https://www.linkedin.com/in/songhs/" target="_blank" title="Linkedin">
   <img alt="Linkedin" src="https://hoseungs.github.io/assets/css/linkedin.png" width="20" height="20" />
 </a>
