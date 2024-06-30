@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<img src="https://hoseungs.github.io/img/profile.png" width="197" height="260" align="left" hspace="20" />
+<img src="https://hoseungs.github.io/img/profile.png" width="177" height="240" align="left" hspace="20" />
 Assistant Professor \\
 [Department of Industrial and Systems Engineering](http://ise.kaist.ac.kr) \\
 [Graduate School of Data Science](http://gsds.kaist.ac.kr) \\
@@ -16,7 +16,6 @@ Tel: 82-42-350-3117 \\
 Office: 4103 E2-2, 291 Daehak-ro, Yuseong-gu \\
 &ensp; &ensp; &ensp; &ensp; &ensp;Daejeon 34141, Republic of Korea
   
-<br>
 <br>
 <hr>
 
