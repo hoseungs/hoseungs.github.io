@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Home
 ---
 
 <img src="https://hoseungs.github.io/img/profile.png" width="167" height="220" align="left" hspace="40" />
