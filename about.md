@@ -22,7 +22,7 @@ title: Bio
 ###### Education
 
 * University of California, Davis \\
--- Ph.D. in Statistics (08/2021) \\
+-- <small> Ph.D. in Statistics (08/2021) </small> \\
 -- Advisor: [Dr. Hao Chen](https://anson.ucdavis.edu/~haochen/index.html)
 
 * Seoul National University \\
