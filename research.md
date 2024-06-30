@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-#####Preprints
+##### Preprints
 
 * [Identifying genomic features related to microbiome community composition using a sparse kernel RV coefficient.]() \
   **Song, H.\***, Ma, N.\*, Plantinga, A.M., Wu, M.C.
@@ -19,7 +19,7 @@ title: Research
 
 <br>
   
-#####Publications
+##### Publications
 
 * [Viral genomic variation and the severity of genital HSV-2 infection as quantified by shedding rate: a viral genome-wide association study.](https://academic.oup.com/jid/advance-article/doi/10.1093/infdis/jiae283/7683852) \
   Casto, A.M., **Song, H.**, Xie, H., Selke, S., Roychoudhury, P., Wu, M.C., Wald, A., Greninger, A.L., Johnston, C. (2024). \
