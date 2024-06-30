@@ -3,7 +3,7 @@ layout: page
 title: Bio
 ---
 
-Work Experience
+##### Work Experience
 
 * Assistant Professor &ensp; (04/2024 - Present) \\
 -- KAIST 
@@ -15,9 +15,7 @@ Work Experience
 * Data Science Research Intern &ensp; (06/2019 - 09/2019) \\
 -- Lawrence Livermore National Laboratory
 
-<br>
-
-Education
+##### Education
 
 * University of California, Davis \\
 -- <small> Ph.D. in Statistics (08/2021) </small> \\
