@@ -3,7 +3,7 @@ layout: page
 title: Bio
 ---
 
-#### Work Experience
+####### Work Experience
 <hr>
 * Assistant Professor &ensp; (04/2024 - Present) \\
 -- KAIST 
@@ -18,7 +18,7 @@ title: Bio
 <br>
 
 #### Education
-<hr>
+
 * University of California, Davis \\
 -- Ph.D. in Statistics (08/2021) \\
 -- Advisor: [Dr. Hao Chen](https://anson.ucdavis.edu/~haochen/index.html)
