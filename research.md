@@ -23,7 +23,7 @@ Publications
 
 * [Viral genomic variation and the severity of genital HSV-2 infection as quantified by shedding rate: a viral genome-wide association study.](https://academic.oup.com/jid/advance-article/doi/10.1093/infdis/jiae283/7683852) \
   Casto, A.M., **Song, H.**, Xie, H., Selke, S., Roychoudhury, P., Wu, M.C., Wald, A., Greninger, A.L., Johnston, C. (2024). \
-  _\textcolor{grey}{Journal of Infectious Diseases, DOI:10.1093/infdis/jiae283.}_
+  <span style="color:grey">_*Journal of Infectious Diseases, DOI:10.1093/infdis/jiae283.*_ text</span>
   
 * [Multivariate differential association analysis.](https://onlinelibrary.wiley.com/doi/10.1002/sta4.704) \
   **Song, H.**, Wu, M.C. (2024). \
