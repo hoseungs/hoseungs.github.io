@@ -17,7 +17,6 @@ title: Research
 * [A fast and effective large-scale two-sample test based on kernels.](https://arxiv.org/pdf/2110.03118.pdf) \
   **Song, H.**, Chen, H.
 
-<br>
   
 ##### Publications
 
