@@ -1,18 +1,28 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Bio
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+#### Work Experience
+<hr>
+* Assistant Professor &ensp; (04/2024 - Present) \\
+-- KAIST 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+* Post-Doctoral Research Fellow &ensp; (09/2021 - 04/2024) \\
+-- Fred Hutchinson Cancer Research Center \\
+-- Mentor: [Dr. Michael C. Wu](https://research.fredhutch.org/wu/en/michael-wu.html)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+* Data Science Research Intern &ensp; (06/2019 - 09/2019) \\
+-- Lawrence Livermore National Laboratory
 
+<br>
 
-[jekyll-organization]: https://github.com/jekyll
+#### Education
+<hr>
+* University of California, Davis \\
+-- Ph.D. in Statistics (08/2021) \\
+-- Advisor: [Dr. Hao Chen](https://anson.ucdavis.edu/~haochen/index.html)
+
+* Seoul National University \\
+-- M.S. in Statistics (08/2016) \\
+-- B.S. in Statistics and Mathematical Sciences (minored) (08/2014)
