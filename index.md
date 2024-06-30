@@ -1,9 +1,28 @@
 ---
-#
-# By default, content added below the "---" mark will appear in the home page
-# between the top bar and the list of recent posts.
-# To change the home page layout, edit the _layouts/home.html file.
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-#
 layout: home
 ---
+
+<img src="https://hoseungs.github.io/img/profile.png" width="197" height="260" align="left" hspace="20" />
+Assistant Professor \\
+[Department of Industrial and Systems Engineering](http://ise.kaist.ac.kr) \\
+[Graduate School of Data Science](http://gsds.kaist.ac.kr) \\
+[KAIST](https://www.kaist.ac.kr/en/)
+
+<br>
+
+**Contact**  
+Email: hoseung [at] kaist.ac.kr \\
+Tel: 82-42-350-3117 \\
+Office: 4103 E2-2, 291 Daehak-ro, Yuseong-gu \\
+&ensp; &ensp; &ensp; &ensp; &ensp;Daejeon 34141, Republic of Korea
+  
+<br>
+<br>
+<hr>
+
+Research Interests
+* Statistical data science/decision making
+* High-dimensional/Large-scale data analysis
+* Two/Multi-sample tests, Association tests
+* Change-point analysis (Anomaly detection)
+* Biomedical and healthcare sciences
