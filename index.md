@@ -2,13 +2,13 @@
 layout: home
 ---
 
-<img src="https://hoseungs.github.io/img/profile.png" width="177" height="240" align="left" hspace="20" />
+<img src="https://hoseungs.github.io/img/profile.png" width="157" height="200" align="left" hspace="20" />
 Assistant Professor \\
 [Department of Industrial and Systems Engineering](http://ise.kaist.ac.kr) \\
 [Graduate School of Data Science](http://gsds.kaist.ac.kr) \\
 [KAIST](https://www.kaist.ac.kr/en/)
 
-<br>
+
 
 **Contact**  
 Email: hoseung [at] kaist.ac.kr \\
