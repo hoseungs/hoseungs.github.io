@@ -1,5 +1,17 @@
 <ul class="social-media-list">
-{%- for entry in site.minima.social_links -%}
-  {%- include social-item.html item = entry -%}
-{%- endfor -%}
+  <li>
+    <a href="https://scholar.google.com/citations?hl=en&user=kTC7m0wAAAAJ&view_op=list_works&sortby=pubdate" target="_blank" title="Google Scholar">
+      <img alt="Google_Scholar" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/16px-Google_Scholar_logo.svg.png" width="16" height="16" />
+    </a>
+  </li>
+  <li>
+    <a href="https://www.linkedin.com/in/songhs/" target="_blank" title="Linkedin">
+      <img alt="ORCID" src="https://hoseungs.github.io/assets/css/linkedin.png" width="16" height="16" />
+    </a>
+  </li>
+  
+  {%- for entry in site.minima.social_links -%}
+    {%- include social-item.html item = entry -%}
+  {%- endfor -%}
+
 </ul>
