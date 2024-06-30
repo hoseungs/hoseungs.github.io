@@ -28,9 +28,9 @@ title: Research
   **Song, H.**, Wu, M.C. (2024). \
   <span style="color:grey"> Stat, 13(2), e70. </span> &ensp; [R package: [kerDAA](https://cran.r-project.org/web/packages/kerDAA/index.html)]
   
-* [Association between vaginal microbiota and vaginal inflammatory immune markers in postmenopause.](https://journals.lww.com/menopausejournal/fulltext/9900/association_between_vaginal_microbiota_and_vaginal.326.aspx) \
+* [Association between vaginal microbiota and vaginal inflammatory immune markers in postmenopause.](https://journals.lww.com/menopausejournal/fulltext/2024/07000/association_between_vaginal_microbiota_and_vaginal.3.aspx) \
   Byrne, E.H., **Song, H.**, Srinivasan, S., Fredricks, D.N., Reed, S.D., Guthrie, K., Wu, M.C., Mitchell, C.M. (2024). \
-  <span style="color:grey"> Menopause: The Journal of The Menopause Society. </span>
+  <span style="color:grey"> Menopause: The Journal of The Menopause Society, 31(7):p 575-581. </span>
   
 * [Generalized kernel two-sample tests.](https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asad068/7420214?redirectedFrom=fulltext) \
   **Song, H.**, Chen, H. (2023).    \
