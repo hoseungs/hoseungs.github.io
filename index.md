@@ -8,7 +8,7 @@ Assistant Professor \\
 [Graduate School of Data Science](http://gsds.kaist.ac.kr) \\
 [KAIST](https://www.kaist.ac.kr/en/)
 
-&nbsp;
+
 
 **Contact**  
 Email: hoseung [at] kaist.ac.kr \\
