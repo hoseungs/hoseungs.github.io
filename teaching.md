@@ -3,4 +3,4 @@ layout: page
 title: Teaching
 ---
 
-* IE 342: Design and Analysis of Experiments ([sample syllabus](https://arxiv.org/pdf/2205.13787.pdf)) (F24)
+* IE 342: Design and Analysis of Experiments ([sample syllabus](https://hoseungs.github.io/syllabus/IE342.pdf)) (F24)
