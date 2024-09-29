@@ -20,6 +20,10 @@ title: Research
   
 ##### Publications
 
+* [Generalized kernel two-sample tests.](https://academic.oup.com/biomet/article/111/3/755/7420214) \
+  **Song, H.**, Chen, H. (2024).    \
+  <span style="color:grey"> Biometrika, 111(3):755-770. </span> &ensp; [R package: [kerTests](https://cran.r-project.org/web/packages/kerTests/index.html)]
+
 * [Viral genomic variation and the severity of genital HSV-2 infection as quantified by shedding rate: a viral genome-wide association study.](https://academic.oup.com/jid/advance-article/doi/10.1093/infdis/jiae283/7683852) \
   Casto, A.M., **Song, H.**, Xie, H., Selke, S., Roychoudhury, P., Wu, M.C., Wald, A., Greninger, A.L., Johnston, C. (2024). \
   <span style="color:grey"> Journal of Infectious Diseases, DOI:10.1093/infdis/jiae283. </span>
@@ -32,10 +36,6 @@ title: Research
   Byrne, E.H., **Song, H.**, Srinivasan, S., Fredricks, D.N., Reed, S.D., Guthrie, K., Wu, M.C., Mitchell, C.M. (2024). \
   <span style="color:grey"> Menopause: The Journal of The Menopause Society, 31(7):575-581. </span>
   
-* [Generalized kernel two-sample tests.](https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asad068/7420214?redirectedFrom=fulltext) \
-  **Song, H.**, Chen, H. (2023).    \
-  <span style="color:grey"> Biometrika, DOI:10.1093/biomet/asad068. </span> &ensp; [R package: [kerTests](https://cran.r-project.org/web/packages/kerTests/index.html)]
-
 * [Limitation of permutation-based differential correlation analysis.](https://onlinelibrary.wiley.com/doi/10.1002/gepi.22540) \
   **Song, H.**, Wu, M.C. (2023).  \
   <span style="color:grey"> Genetic Epidemiology, 47(3):583-642. </span>
