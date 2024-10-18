@@ -19,7 +19,7 @@ title: Research
 
 * [Practical and powerful kernel-based change-point detection.](https://ieeexplore.ieee.org/document/10715714)  \
   **Song, H.**, Chen, H. (2024). \
-  <span style="color:grey"> IEEE Transactions on Signal Processing. </span> &ensp; [R package: [kerSeg](https://cran.r-project.org/web/packages/kerSeg/index.html)]
+  <span style="color:grey"> IEEE Transactions on Signal Processing, DOI:10.1109/TSP.2024.3479274. </span> &ensp; [R package: [kerSeg](https://cran.r-project.org/web/packages/kerSeg/index.html)]
 
 * [Generalized kernel two-sample tests.](https://academic.oup.com/biomet/article/111/3/755/7420214) \
   **Song, H.**, Chen, H. (2024).    \
