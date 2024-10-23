@@ -4,7 +4,7 @@ title: Home
 ---
 
 <img src="https://hoseungs.github.io/img/profile.png" width="167" height="220" align="left" hspace="40" />
-<small>
+
 Assistant Professor \\
 [Department of Industrial and Systems Engineering](http://ise.kaist.ac.kr) \\
 [Graduate School of Data Science](https://gsds.kaist.ac.kr/eng) \\
@@ -20,7 +20,7 @@ Office: 4103 E2-2, 291 Daehak-ro, Yuseong-gu \\
   
 <br>
 <hr>
-<small>
+
 Research Interests
 * Statistical data science/decision making
 * High-dimensional/Large-scale data analysis
