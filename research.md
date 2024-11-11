@@ -31,7 +31,7 @@ title: Research
   
 * [Multivariate differential association analysis.](https://onlinelibrary.wiley.com/doi/10.1002/sta4.704) \
   **Song, H.**, Wu, M.C. (2024). \
-  <span style="color:grey"> Stat, 13(2), e70. </span> &ensp; [R package: [kerDAA](https://cran.r-project.org/web/packages/kerDAA/index.html)]
+  <span style="color:grey"> Stat, 13(2), e704. </span> &ensp; [R package: [kerDAA](https://cran.r-project.org/web/packages/kerDAA/index.html)]
   
 * [Association between vaginal microbiota and vaginal inflammatory immune markers in postmenopause.](https://journals.lww.com/menopausejournal/fulltext/2024/07000/association_between_vaginal_microbiota_and_vaginal.3.aspx) \
   Byrne, E.H., **Song, H.**, Srinivasan, S., Fredricks, D.N., Reed, S.D., Guthrie, K., Wu, M.C., Mitchell, C.M. (2024). \
