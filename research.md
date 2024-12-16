@@ -25,9 +25,9 @@ title: Research
   **Song, H.**, Chen, H. (2024).    \
   <span style="color:grey"> Biometrika, 111(3):755-770. </span> &ensp; [R package: [kerTests](https://cran.r-project.org/web/packages/kerTests/index.html)]
 
-* [Viral genomic variation and the severity of genital HSV-2 infection as quantified by shedding rate: a viral genome-wide association study.](https://academic.oup.com/jid/advance-article/doi/10.1093/infdis/jiae283/7683852) \
+* [Viral genomic variation and the severity of genital HSV-2 infection as quantified by shedding rate: a viral genome-wide association study.](https://academic.oup.com/jid/article/230/6/1357/7683852) \
   Casto, A.M., **Song, H.**, Xie, H., Selke, S., Roychoudhury, P., Wu, M.C., Wald, A., Greninger, A.L., Johnston, C. (2024). \
-  <span style="color:grey"> Journal of Infectious Diseases, DOI:10.1093/infdis/jiae283. </span>
+  <span style="color:grey"> Journal of Infectious Diseases, 230(6):1357-1366. </span>
   
 * [Multivariate differential association analysis.](https://onlinelibrary.wiley.com/doi/10.1002/sta4.704) \
   **Song, H.**, Wu, M.C. (2024). \
