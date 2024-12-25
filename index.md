@@ -8,7 +8,7 @@ title: Home
 Assistant Professor \\
 [Department of Industrial  Systems Engineering](http://ise.kaist.ac.kr) \\
 [Graduate School of Data Science](https://gsds.kaist.ac.kr/eng) \\
-[KAIST](https://www.kaist.ac.kr/en/)(Korea Advanced Institute of Science & Technology)
+[KAIST](https://www.kaist.ac.kr/en/) (Korea Advanced Institute of Science & Technology)
 
 
 <small>
