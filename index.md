@@ -6,9 +6,9 @@ title: Home
 <img src="https://hoseungs.github.io/img/profile.png" width="167" height="220" align="left" hspace="40" />
 
 Assistant Professor \\
-[Department of Industrial and Systems Engineering](http://ise.kaist.ac.kr) \\
+[Department of Industrial  Systems Engineering](http://ise.kaist.ac.kr) \\
 [Graduate School of Data Science](https://gsds.kaist.ac.kr/eng) \\
-[KAIST](https://www.kaist.ac.kr/en/)
+[KAIST](https://www.kaist.ac.kr/en/)(Korea Advanced Institute of Science & Technology)
 
 
 <small>
