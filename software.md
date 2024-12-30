@@ -3,7 +3,7 @@ layout: page
 title: Software
 ---
 
-R packages
+##### R packages
 
 * [gSeg](https://cran.r-project.org/web/packages/gSeg/index.html): Graph-based change-point detection.
 * [kerTests](https://cran.r-project.org/web/packages/kerTests/index.html): Generalized kernel two-sample tests.
