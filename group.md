@@ -10,13 +10,13 @@ title: Group
 * PhD Students \\
 -- Mingyu Go (gomg9157 [at] kaist.ac.kr)
 
-<br>
+
 
 * MS Students \\
 -- Serim Han (haser [at] kaist.ac.kr) \\
 -- Jinhyeok Park (zinhyeok [at] kaist.ac.kr)
 
-<br>
+
 
 * Administrative Staff \\
 -- Hyojin Shin (cynthia [at] kaist.ac.kr)
