@@ -21,7 +21,7 @@ title: Group
 * Administrative Staff \\
 -- Hyojin Shin (cynthia [at] kaist.ac.kr)
 
-\smallskip
+
 
 * Undergraduate Lab Interns \\
 -- 2025: Dogeon Lee (KAIST ISE) \\
