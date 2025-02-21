@@ -7,7 +7,7 @@ title: Group
 
 <br>
 
-* ##### PhD Students  \\
+* ##### PhD Students  \
 -- Mingyu Go (gomg9157 [at] kaist.ac.kr)
 
 
