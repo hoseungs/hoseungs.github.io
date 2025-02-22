@@ -3,7 +3,7 @@ layout: page
 title: Group
 ---
 
-##### <center> Statistical Decision Making Lab. @ KAIST </center>
+##### <center> Statistical Decision Making (SDM) Lab. @ KAIST </center>
 
 <br>
 
