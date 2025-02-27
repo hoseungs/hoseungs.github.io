@@ -5,7 +5,8 @@ title: Group
 
 ##### <center> Statistical Decision Making (SDM) Lab. @ KAIST </center>
 
-[Lab Docs (members only)](https://www.notion.so/sdmkaist/)
+* [##### Lab Docs (members only)](https://www.notion.so/sdmkaist/)
+
 
 * ##### PhD Students  
 -- Mingyu Go (gomg9157 [at] kaist.ac.kr)
