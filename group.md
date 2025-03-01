@@ -16,7 +16,7 @@ title: Group
 
 
 ##### MS Students  
-* Serim Han (haser [at] kaist.ac.kr) \\
+* Serim Han (haser [at] kaist.ac.kr) 
 * Jinhyeok Park (zinhyeok [at] kaist.ac.kr)
 
 
