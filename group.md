@@ -29,6 +29,6 @@ title: Group
 ##### Undergraduate Lab Interns  
 * 2025: Dogeon Lee (KAIST ISE) 
 * 2024: Minyoung Shin (SKKU Stat), Hyunho Lee (KAIST ISE), Sehyeok Park (SKKU IE), \\
-  &ensp; &ensp; &ensp; &ensp; &ensp; Yanghyeon Park (KAIST EE), Seungchan Na (SNU Stat)
+  &ensp; &ensp; &ensp; &ensp; Yanghyeon Park (KAIST EE), Seungchan Na (SNU Stat)
 
 
