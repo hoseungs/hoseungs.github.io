@@ -24,8 +24,8 @@ Office: 4103 E2-2, 291 Daehak-ro, Yuseong-gu \\
 Research Interests
 * Statistical data science/decision making
 * Change-point analysis (Anomaly detection)
-* Two/Multi-sample tests, Association tests
-* Spatial clustering tests
+* Two/Multi-sample (A/B) tests, Association tests
+* Spatial clustering
 * Biomedical and healthcare sciences
 
 <br>
