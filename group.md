@@ -18,7 +18,7 @@ title: Group
 ##### MS Students  
 * Serim Han (haser [at] kaist.ac.kr) 
 * Jinhyeok Park (zinhyeok [at] kaist.ac.kr)
-
+* Taejoon Yang (tj2875 [at] kaist.ac.kr)
 
 
 ##### Administrative Staff  
