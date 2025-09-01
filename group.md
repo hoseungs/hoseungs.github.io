@@ -22,7 +22,7 @@ title: Group
 
 
 ##### Administrative Staff  
-* Hyojin Shin (cynthia [at] kaist.ac.kr)
+* Yeon Jung Lim (p2096 [at] kaist.ac.kr)
 
 
 
