@@ -15,18 +15,17 @@ Assistant Professor \\
 
 <small>
 **Contact**  
-  
 <table style="border-collapse: collapse; border: none; font-size: 0.9em; margin-top:4px;">
   <tr style="background:none;">
-    <td style="padding: 0 4px 0 0; border: none;">Email:</td>
+    <td style="padding: 0 6px 0 0; border: none; white-space:nowrap; width:1%;">Email:</td>
     <td style="padding: 0; border: none;">hoseung [at] kaist.ac.kr</td>
   </tr>
   <tr style="background:none;">
-    <td style="padding: 0 4px 0 0; border: none;">Tel:</td>
+    <td style="padding: 0 6px 0 0; border: none; white-space:nowrap; width:1%;">Tel:</td>
     <td style="padding: 0; border: none;">82-42-350-3117</td>
   </tr>
   <tr style="background:none;">
-    <td style="padding: 0 4px 0 0; border: none;">Office:</td>
+    <td style="padding: 0 6px 0 0; border: none; white-space:nowrap; width:1%;">Office:</td>
     <td style="padding: 0; border: none;">
       4103 E2-2, 291 Daehak-ro, Yuseong-gu<br>
       Daejeon 34141, Republic of Korea
