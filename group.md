@@ -3,7 +3,7 @@ layout: page
 title: Group
 ---
 
-<img src="https://hoseungs.github.io/img/logo.png" width="400" height="auto" align="center" hspace="40" />
+<img src="https://hoseungs.github.io/img/logo.png" width="400" height="80" display="inline-block" hspace="40" />
 
 ##### [Lab Docs (members only)](https://www.notion.so/sdmkaist/)
 
