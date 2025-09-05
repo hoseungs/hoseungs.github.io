@@ -10,7 +10,7 @@ title: Group
        style="display:inline-block;" />
 </div>
 
-* We are dedicated to advancing statistical methodology and data-driven decision making in the era of big data and artificial intelligence. Our vision is to develop robust and interpretable statistical methods that address the challenges posed by complex, high-dimensional, and structured data, with particular emphasis on change-point detection, nonparametric hypothesis testing, and spatial clustering. 
+* We are dedicated to advancing statistical methodology and data-driven decision making in the era of big data and artificial intelligence. Our vision is to develop robust and interpretable statistical methods that address the challenges posed by complex, high-dimensional, and structured data, with particular emphasis on change-point detection, nonparametric hypothesis testing, and spatial clustering, and with applications in manufacturing and biomedical sciences.
 * We strongly recommend that students who wish to join our lab first participate in a lab internship or conduct individual research.
 
 
