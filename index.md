@@ -5,7 +5,7 @@ title: Home
 
 <img src="https://hoseungs.github.io/img/profile.png" width="167" height="220" align="left" hspace="40" />
 
-Hoseung Song \
+Hoseung Song 
 
 Assistant Professor \\
 [Department of Industrial and Systems Engineering](http://ise.kaist.ac.kr) \\
