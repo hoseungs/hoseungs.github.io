@@ -13,24 +13,10 @@ Assistant Professor \\
 [KAIST](https://www.kaist.ac.kr/en/) (Korea Advanced Institute of Science & Technology)
 
 
-<small> **Contact** </small>
-<table style="border-collapse:collapse; border:none; font-size:0.9em; margin-top:4px;">
-    <tr style="background:none;">
-      <td style="border:none; padding:0 6px 0 0; white-space:nowrap; width:1%;">Email:</td>
-      <td style="border:none; padding:0;">hoseung [at] kaist.ac.kr</td>
-    </tr>
-    <tr style="background:none;">
-      <td style="border:none; padding:0 6px 0 0; white-space:nowrap; width:1%;">Tel:</td>
-      <td style="border:none; padding:0;">82-42-350-3117</td>
-    </tr>
-    <tr style="background:none;">
-      <td style="border:none; padding:0 6px 0 0; white-space:nowrap; width:1%;">Office:</td>
-      <td style="border:none; padding:0;">
-        4103 E2-2, 291 Daehak-ro, Yuseong-gu<br>
-        Daejeon 34141, Republic of Korea
-      </td>
-    </tr>
-  </table>
+<small> 
+Email: hoseung [at] kaist.ac.kr \\
+Tel: 82-42-350-3117 \\
+Office: 4103 E2-2, 291 Daehak-ro, Yuseong-gu, Daejeon 34141, Republic of Korea
   
 <br>
 <hr>
