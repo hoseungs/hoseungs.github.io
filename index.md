@@ -15,6 +15,7 @@ Assistant Professor \\
 
 <small>
 **Contact**  
+  
 <table style="border-collapse: collapse; border: none; font-size: 0.9em; margin-top:4px;">
   <tr style="background:none;">
     <td style="padding: 0 4px 0 0; border: none;">Email:</td>
