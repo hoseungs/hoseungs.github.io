@@ -3,9 +3,7 @@ layout: page
 title: Group
 ---
 
-##### <center> Statistical Decision Making (SDM) Lab. @ KAIST </center>
-
-
+<img src="https://hoseungs.github.io/img/logo.png" width="400" height="auto” align="center” hspace="40" />
 
 ##### [Lab Docs (members only)](https://www.notion.so/sdmkaist/)
 
