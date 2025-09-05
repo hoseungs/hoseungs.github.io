@@ -6,7 +6,7 @@ title: Group
 <div style="text-align:center; margin:20px 0;">
   <img src="https://hoseungs.github.io/img/logo.png" 
        alt="SDM @ KAIST Logo" 
-       width="350" height="100" 
+       width="350" height="auto" 
        style="display:inline-block;" />
 </div>
 
