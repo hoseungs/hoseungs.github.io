@@ -3,7 +3,12 @@ layout: page
 title: Group
 ---
 
-<img src="https://hoseungs.github.io/img/logo.png" width="400" height="100" style="display:inline-block;" hspace="40" />
+<div style="text-align:center; margin:20px 0;">
+  <img src="https://hoseungs.github.io/img/logo.png" 
+       alt="SDM @ KAIST Logo" 
+       width="350" height="100" 
+       style="display:inline-block;" />
+</div>
 
 ##### [Lab Docs (members only)](https://www.notion.so/sdmkaist/)
 
