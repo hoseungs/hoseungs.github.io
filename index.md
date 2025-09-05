@@ -15,10 +15,22 @@ Assistant Professor \\
 
 <small>
 **Contact**  
-Email: hoseung [at] kaist.ac.kr \\
-Tel: 82-42-350-3117 \\
-<span style="margin-left:42px;">Office: 4103 E2-2, 291 Daehak-ro, Yuseong-gu</span><br>
-<span style="margin-left:42px;">Daejeon 34141, Republic of Korea</span>
+<table>
+  <tr>
+    <td>Email:</td>
+    <td>hoseung [at] kaist.ac.kr</td>
+  </tr>
+  <tr>
+    <td>Tel:</td>
+    <td>82-42-350-3117</td>
+  </tr>
+  <tr>
+    <td>Office:</td>
+    <td>4103 E2-2, 291 Daehak-ro, Yuseong-gu<br>
+        Daejeon 34141, Republic of Korea</td>
+  </tr>
+</table>
+</small>
   
 <br>
 <hr>
