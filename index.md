@@ -50,7 +50,7 @@ Research Interests
 * Change-point analysis (Anomaly detection)
 * Two/Multi-sample (A/B) tests, Association tests
 * Spatial clustering
-* Biomedical and healthcare sciences
+* Manufacturing, Social/Biomedical sciences
 
 <br>
 
