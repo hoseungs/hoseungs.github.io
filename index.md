@@ -34,11 +34,9 @@ title: Home
   [KAIST](https://www.kaist.ac.kr/en/) (Korea Advanced Institute of Science & Technology)
 
   <dl class="kv">
-    <small>
-    <dt>Email</dt><dd>hoseung [at] kaist.ac.kr</dd>
-    <dt>Tel</dt><dd>82-42-350-3117</dd>
-    <dt>Office</dt><dd>4103 E2-2, 291 Daehak-ro, Daejeon 34141, Republic of Korea</dd>
-    </small>
+    <dt><small>Email</small></dt><dd><small>hoseung [at] kaist.ac.kr</small></dd>
+    <dt><small>Tel</small></dt><dd><small>82-42-350-3117</small></dd>
+    <dt><small>Office</small></dt><dd><small>4103 E2-2, 291 Daehak-ro, Daejeon 34141, Republic of Korea</small></dd>
   </dl>
   </div>
 </div>
