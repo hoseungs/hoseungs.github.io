@@ -10,8 +10,10 @@ title: Home
 
 .kv{
   display:grid;
-  grid-template-columns: 72px 1fr; /* ← 라벨 폭. 간격 넓히거나 줄이려면 숫자만 조정 */
-  column-gap:12px; row-gap:4px; margin:10px 0 0;
+  grid-template-columns: max-content 1fr;
+  column-gap: 6px;                        
+  row-gap: 4px;
+  align-items: baseline;
 }
 .kv dt{ margin:0; font-weight:600; }
 .kv dd{ margin:0; }
