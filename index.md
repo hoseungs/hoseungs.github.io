@@ -36,7 +36,7 @@ title: Home
   <dl class="kv">
     <dt><small>Email</small></dt><dd><small>hoseung [at] kaist.ac.kr</small></dd>
     <dt><small>Tel</small></dt><dd><small>82-42-350-3117</small></dd>
-    <dt><small>Office</small></dt><dd><small>4103 E2-2, 291 Daehak-ro, Daejeon 34141, Republic of Korea</small></dd>
+    <dt><small>Office</small></dt><dd><small>4103 E2-2, 291 Daehak-ro, Yuseong-gu, Daejeon 34141, Republic of Korea</small></dd>
   </dl>
   </div>
 </div>
