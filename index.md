@@ -3,22 +3,40 @@ layout: home
 title: Home
 ---
 
-<img src="https://hoseungs.github.io/img/profile.png" width="167" height="220" align="left" hspace="40" />
+<style>
+/* 기존 profile 스타일은 그대로 두고, 바깥 래퍼만 추가 */
+.profile-wrap{
+  max-width: 860px;  /* 본문 폭에 맞춰 720~920px 사이로 취향대로 조절 */
+  margin: 0 auto;    /* 가운데 정렬 */
+  padding: 0 16px;   /* 좌우 여백(살짝 안쪽으로) */
+}
 
-Hoseung Song 
+/* 참고: 이미 넣어둔 것 */
+.profile{ display:flex; gap:24px; align-items:flex-start; margin:8px 0 0; }
+.profile__photo{ width:167px; height:auto; display:block; border-radius:6px; }
+.profile__text{ flex:1 1 0; min-width:0; }
+@media (max-width:640px){ .profile{ flex-direction:column; } }
+</style>
 
-Assistant Professor \\
-[Department of Industrial and Systems Engineering](http://ise.kaist.ac.kr) \\
-[Graduate School of Data Science](https://gsds.kaist.ac.kr/eng) \\
-[KAIST](https://www.kaist.ac.kr/en/) (Korea Advanced Institute of Science & Technology)
+<div class="profile-wrap">
+  <div class="profile">
+    <img class="profile__photo" src="https://hoseungs.github.io/img/profile.png" alt="Hoseung Song">
+    <div class="profile__text" markdown="1">
+      ## Hoseung Song
+      Assistant Professor  
+      [Department of Industrial and Systems Engineering](http://ise.kaist.ac.kr)  
+      [Graduate School of Data Science](https://gsds.kaist.ac.kr/eng)  
+      [KAIST](https://www.kaist.ac.kr/en/) (Korea Advanced Institute of Science & Technology)
 
+      <dl class="kv">
+        <dt>Email</dt><dd>hoseung [at] kaist.ac.kr</dd>
+        <dt>Tel</dt><dd>82-42-350-3117</dd>
+        <dt>Office</dt><dd>4103 E2-2, 291 Daehak-ro, Daejeon 34141, Republic of Korea</dd>
+      </dl>
+    </div>
+  </div>
+</div>
 
-<small> 
-Email: hoseung [at] kaist.ac.kr \\
-Tel: 82-42-350-3117 \\
-Office: 4103 E2-2, 291 Daehak-ro, Daejeon 34141, Republic of Korea
-  
-<br>
 <hr>
 
 Research Interests
