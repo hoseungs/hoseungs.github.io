@@ -46,10 +46,10 @@ title: Home
 <hr>
 
 Research Interests
-* Statistical data science/decision making
+* Statistical decision making
 * Change-point analysis (Anomaly detection)
 * Two/Multi-sample (A/B) tests, Association tests
-* Spatial clustering
+* Spatial clustering in images
 * Manufacturing, Social/Biomedical sciences
 
 <br>
