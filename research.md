@@ -3,8 +3,8 @@ layout: page
 title: Research
 ---
 
-<p style="margin-bottom:0;"><small>(*: equal contribution, &nbsp;  __: advisee)</small></p>
-##### Preprints
+<small>(*: equal contribution, &nbsp;  __: advisee)</small>
+<h4 style="margin-top:0; padding-top:0;">##### Preprints</h4>
 
 * [Change-point detection with multivariate repeated measures.](https://arxiv.org/pdf/2511.18432v1) \
   <u>Han, S.</u>, Zhang, J., **Song, H.**
