@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-<small>(*: equal contribution, &nbsp;  __: advisee)</small><br>
+<p style="margin-bottom:0;"><small>(*: equal contribution, &nbsp;  __: advisee)</small></p>
 ##### Preprints
 
 * [Change-point detection with multivariate repeated measures.](https://arxiv.org/pdf/2511.18432v1) \
