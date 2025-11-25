@@ -3,7 +3,14 @@ layout: page
 title: Research
 ---
 
-##### Selected Preprints
+<small>(*: equal contribution,   __: advisee)</small>
+##### Preprints
+
+* [Change-point detection with multivariate repeated measures.](https://arxiv.org/pdf/2511.18432v1) \
+  <u>Han, S.</u>, Zhang, J., **Song, H.**
+
+* [A robust, scalable K-statistic for quantifying immune cell clustering in spatial proteomics data.](https://arxiv.org/pdf/2412.08498) \
+  Wrobel, J.\*, **Song, H.\***
 
 * [Identifying genomic features related to microbiome community composition using a sparse kernel RV coefficient.]() \
   **Song, H.\***, Ma, N.\*, Plantinga, A.M., Wu, M.C.
