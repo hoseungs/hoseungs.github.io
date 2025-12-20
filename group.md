@@ -26,6 +26,7 @@ title: Group
 * Serim Han (haser [at] kaist.ac.kr) 
 * Jinhyeok Park (zinhyeok [at] kaist.ac.kr)
 * Taejoon Yang (tj2875 [at] kaist.ac.kr)
+* Dogeon Lee (magictive [at] kaist.ac.kr)
 
 
 ##### Administrative Staff  
@@ -34,6 +35,7 @@ title: Group
 
 
 ##### Undergraduate Lab Interns  
+* 2026: Daehwan Lee (KAIST ISE)
 * 2025: Dogeon Lee (KAIST ISE), Changseong Jang (SNU IE), Jaeyun Song (KAIST ISE), \\
   &ensp; &ensp; &ensp; &ensp; Kyungheon Lee (KAIST ISE), Sujeong Baek (KAIST ISE), Sangheon Kang (KAIST ISE), \\
   &ensp; &ensp; &ensp; &ensp; Sumin Cho (KAIST ISE)
