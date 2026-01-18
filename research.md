@@ -63,7 +63,7 @@ title: Research
   Chen, J., Randolph, T., Koay, W., White, J., Launer, L., Fodor, A., Meyer, K., Wu, M.C. (2022). \
   <span style="color:grey"> Nature Communications, 13(1):5418. </span>
   
-* [Asymptotic distribution-free change-point detection for data with repeated observations.](https://academic.oup.com/biomet/article/109/3/783/6377777?guestAccessKey=5af540ec-9d89-44b5-b04c-86c81bcd86a4)  \
+* [Asymptotic distribution-free changepoint detection for data with repeated observations.](https://academic.oup.com/biomet/article/109/3/783/6377777?guestAccessKey=5af540ec-9d89-44b5-b04c-86c81bcd86a4)  \
   **Song, H.**, Chen, H. (2022).   
   <span style="color:grey"> Biometrika, 109(3):783-798. </span> &ensp; [R package: [gSeg](https://cran.r-project.org/web/packages/gSeg/index.html)]
   
