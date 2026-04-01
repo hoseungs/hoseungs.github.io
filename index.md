@@ -32,7 +32,9 @@ title: Home
   Assistant Professor
 
   [Department of Industrial and Systems Engineering](http://ise.kaist.ac.kr)  
-  [Graduate School of Data Science](https://gsds.kaist.ac.kr/eng)  
+  [Graduate School of Data Science](https://gsds.kaist.ac.kr/eng) 
+  [Department of AX (Adjunct)](https://ax.kaist.ac.kr) 
+  [Graduate School of AI for Math (Adjunct)](https://ai4math.kaist.ac.kr) 
   [KAIST](https://www.kaist.ac.kr/en/) (Korea Advanced Institute of Science & Technology)
 
   <dl class="kv">
