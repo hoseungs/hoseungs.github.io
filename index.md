@@ -48,7 +48,7 @@ title: Home
 <hr>
 
 Research Interests
-* Statistical decision making
+* Statistical decision making, AX
 * Change-point analysis (Anomaly detection)
 * Two/Multi-sample (A/B) tests, Association tests
 * Spatial clustering in images
