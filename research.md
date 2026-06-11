@@ -6,6 +6,9 @@ title: Research
 <small>(*: equal contribution, &nbsp;  __: advisee)</small>
 <h5 style="margin-top:0; padding-top:0;">Preprints</h5>
 
+* [Adaptive spatial blocking for scalable clustering inference with applications to high-throughput spatial proteomics.](https://arxiv.org/pdf/2606.12021) \
+  <u>Go, M.</u>, Wrobel, J., **Song, H.**
+
 * [Change-point detection with multivariate repeated measures.](https://arxiv.org/pdf/2511.18432v1) \
   <u>Han, S.</u>, Zhang, J., **Song, H.**
 
