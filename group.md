@@ -30,7 +30,7 @@ title: Group
 
 
 ##### Administrative Staff  
-* Yeon Jung Lim (p2096 [at] kaist.ac.kr)
+* Eunyoung Yu (eunyu [at] kaist.ac.kr)
 
 
 
