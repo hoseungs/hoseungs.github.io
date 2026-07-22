@@ -12,13 +12,13 @@ title: Projects
   PI, 정련 물성 기반 혼합 시방서 작성 프로그램 개발 (2026). \
   Hankook Tire & Technology (한국타이어).
 
-* Prediction of semiconductor coating defects and key factor identification PoC. \
-  PI, 반도체 Coating 불량 예측 및 핵심 인자 규명 PoC (2026). \
-  Nepes (네페스).
-
 * Development of a comprehensive change-point detection framework adaptive to complex data structures and dynamic environments. \
   PI, Young Scientist Grants (신진연구,유형B) (2026-2031). \
   National Research Foundation of Korea.
+
+* Prediction of semiconductor coating defects and key factor identification PoC. \
+  PI, 반도체 Coating 불량 예측 및 핵심 인자 규명 PoC (2026). \
+  Nepes (네페스).
 
 * Establishment of a leading physical AI model and PoC. \
   Co-I, 피지컬 AI 선도모델 수립 및 PoC (2025). \
