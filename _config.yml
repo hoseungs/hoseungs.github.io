@@ -34,6 +34,7 @@ header_pages:
   - index.md
   - about.md
   - research.md
+  - project.md
   - teaching.md
   - software.md
   - group.md 
