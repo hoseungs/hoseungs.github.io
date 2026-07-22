@@ -28,8 +28,8 @@ title: Projects
   PI, Young Scientist Grants (신진연구,씨앗) (2025-2026) \
   National Research Foundation of Korea
 
-* KAIST Starting Fund. \
-  PI (2024-2027). \
-  KAIST.
+* KAIST Starting Fund \
+  PI (2024-2027) \
+  KAIST
 
 
