@@ -11,7 +11,7 @@ title: Group
 </div>
 
 * We are dedicated to advancing statistical methodology and data-driven decision making in the era of big data and AI. Our vision is to develop robust and interpretable statistical methods that address the challenges posed by complex, high-dimensional, and structured data, with particular emphasis on change-point detection, nonparametric hypothesis testing, or spatial clustering, and with applications in manufacturing, financial engineering, or social/biomedical sciences.
-* We strongly recommend that students who wish to join our lab first participate in a lab internship (also open to students from other universities) or conduct individual research.
+* We are actively seeking passionate and self-motivated students. We strongly recommend that students who wish to join our lab first participate in a lab internship (also open to students from other universities) or conduct individual research.
 
 
 ##### [Lab Docs (members only)](https://www.notion.so/sdmkaist/)
