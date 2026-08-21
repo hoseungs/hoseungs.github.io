@@ -20,12 +20,13 @@ title: Research
   
 * [New graph-based multi-sample tests for high-dimensional and non-Euclidean data](https://arxiv.org/pdf/2205.13787.pdf) \
   **Song, H.**, Chen, H. &ensp; [R package: [gTestsMulti](https://cran.r-project.org/web/packages/gTestsMulti/index.html)]
-  
-* [A fast and effective large-scale two-sample test based on kernels](https://arxiv.org/pdf/2110.03118.pdf) \
-  **Song, H.**, Chen, H.
 
   
 ##### Publications
+
+* [A fast and effective large-scale two-sample test based on kernels](https://arxiv.org/pdf/2110.03118.pdf) \
+  **Song, H.**, Chen, H. (2026) \
+  <span style="color:grey"> Statistics and Computing
 
 * [Practical and powerful kernel-based change-point detection](https://ieeexplore.ieee.org/document/10715714)  \
   **Song, H.**, Chen, H. (2024) \
