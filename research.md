@@ -48,8 +48,7 @@ title: Research
   <span style="color:grey"> Stat, 13(2), e704 </span> &ensp; [R package: [kerDAA](https://cran.r-project.org/web/packages/kerDAA/index.html)]
   
 * [Association between vaginal microbiota and vaginal inflammatory immune markers in postmenopause](https://journals.lww.com/menopausejournal/fulltext/2024/07000/association_between_vaginal_microbiota_and_vaginal.3.aspx) \
-  Byrne, E.H., **Song, H.**, Srinivasan, S., Fredricks, D.N., Reed, S.D., Guthrie, K., Wu, M.C., \
-  Mitchell, C.M. (2024) \
+  Byrne, E.H., **Song, H.**, Srinivasan, S., Fredricks, D.N., Reed, S.D., Guthrie, K., Wu, M.C., Mitchell, C.M. (2024) \
   <span style="color:grey"> Menopause: The Journal of The Menopause Society, 31(7):575-581 </span>
   
 * [Limitation of permutation-based differential correlation analysis](https://onlinelibrary.wiley.com/doi/10.1002/gepi.22540) \
@@ -66,8 +65,7 @@ title: Research
   <span style="color:grey"> Scientific Reports, 12(1):21659 </span>
   
 * [Batch effects removal for microbiome data via conditional quantile regression](https://www.nature.com/articles/s41467-022-33071-9)  \
-  Ling, W., Lu, J., Zhao, N., Lulla, A., Plantinga, A., Fu, W., Zhang, A., Liu, H., **Song, H.**, Li, Z., \
-  Chen, J., Randolph, T., Koay, W., White, J., Launer, L., Fodor, A., Meyer, K., Wu, M.C. (2022) \
+  Ling, W., Lu, J., Zhao, N., Lulla, A., Plantinga, A., Fu, W., Zhang, A., Liu, H., **Song, H.**, Li, Z., Chen, J., Randolph, T., Koay, W., White, J., Launer, L., Fodor, A., Meyer, K., Wu, M.C. (2022) \
   <span style="color:grey"> Nature Communications, 13(1):5418 </span>
   
 * [Asymptotic distribution-free changepoint detection for data with repeated observations](https://academic.oup.com/biomet/article/109/3/783/6377777?guestAccessKey=5af540ec-9d89-44b5-b04c-86c81bcd86a4)  \
