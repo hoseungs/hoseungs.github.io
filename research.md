@@ -56,8 +56,7 @@ title: Research
   <span style="color:grey"> Genetic Epidemiology, 47(3):583-642 </span>
   
 * [Accommodating multiple potential normalizations in microbiome associations studies](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05147-w)   \
-  **Song, H.**, Ling, W., Zhao, N., Plantinga, A.M., Broedlow, C.A., Klatt, N.R., Hensley-McBain, T., \
-  Wu, M.C. (2023) \
+  **Song, H.**, Ling, W., Zhao, N., Plantinga, A.M., Broedlow, C.A., Klatt, N.R., Hensley-McBain, T., Wu, M.C. (2023) \
   <span style="color:grey"> BMC Bioinformatics, 24(1):22 </span>
   
 * [A fast kernel independence test for cluster-correlated data](https://www.nature.com/articles/s41598-022-26278-9) \
