@@ -6,7 +6,7 @@ title: Research
 <small>(*: equal contribution, &nbsp;  __: advisee)</small>
 <h5 style="margin-top:0; padding-top:0;">Preprints</h5>
 
-* [Constructing microbiome co-occurrence networks with confidence: A conditional, nonparametric, inference-based approach]() \
+* [Constructing microbiome co-occurrence networks with confidence: A conditional, nonparametric, inference-based approach](https://www.biorxiv.org/content/10.64898/2026.08.27.747483v1.full.pdf) \
   **Song, H.\***, Xiang, Y.\*, Liu, H., Ling, W., Plantinga, A.M., Srinivasan, S., Dun, Y., Zhao, N., Sun, S., Engel, S.M., Simon, N., Wu, M.C.
 
 * [Adaptive spatial blocking for scalable clustering inference with applications to high-throughput spatial proteomics](https://arxiv.org/pdf/2606.12021) \
