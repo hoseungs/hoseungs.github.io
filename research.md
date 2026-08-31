@@ -27,7 +27,7 @@ title: Research
   
 ##### Publications
 
-* [A fast and effective large-scale two-sample test based on kernels](https://link.springer.com/article/10.1007/s11222-026-10969-8?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20260829&utm_content=10.1007/s11222-026-10969-8) \
+* [A fast and effective kernel two-sample test for large-scale data](https://link.springer.com/article/10.1007/s11222-026-10969-8?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20260829&utm_content=10.1007/s11222-026-10969-8) \
   **Song, H.**, Chen, H. (2026) \
   <span style="color:grey"> Statistics and Computing, 36:214
 
