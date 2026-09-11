@@ -3,6 +3,9 @@ layout: page
 title: Projects
 ---
 
+* Development of an Integrated Sim-to-Real Platform for Physical AI-Enabled Collaborative Intelligence \
+  Co-I, 피지컬AI 기반 협업지능 Sim-to-Real 통합 플랫폼 기술 개발 (2026-2030) \
+  National IT Industry Promotion Agency
 
 * Change detection and adaptive decision-making in nonstationary sequential data \
   PI, Basic Research Lab (기초연구실) (2026-2029) \
