@@ -12,7 +12,7 @@ title: Research
 * [Adaptive spatial blocking for scalable clustering inference with applications to high-throughput spatial proteomics](https://arxiv.org/pdf/2606.12021) \
   <u>Go, M.</u>, Wrobel, J., **Song, H.**
 
-* [Change-point detection with multivariate repeated measures](https://arxiv.org/pdf/2511.18432v1) \
+* [Change-point detection with multivariate repeated measures](https://arxiv.org/pdf/2511.18432) \
   <u>Han, S.</u>, Zhang, J., **Song, H.**
 
 * [A robust, scalable K-statistic for quantifying immune cell clustering in spatial proteomics data](https://arxiv.org/pdf/2412.08498) \
