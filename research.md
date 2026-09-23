@@ -15,9 +15,6 @@ title: Research
 * [Change-point detection with multivariate repeated measures](https://arxiv.org/pdf/2511.18432) \
   <u>Han, S.</u>, Zhang, J., **Song, H.**
 
-* [A robust, scalable K-statistic for quantifying immune cell clustering in spatial proteomics data](https://arxiv.org/pdf/2412.08498) \
-  Wrobel, J.\*, **Song, H.\***
-
 * [Identifying genomic features related to microbiome community composition using a sparse kernel RV coefficient]() \
   **Song, H.\***, Ma, N.\*, Plantinga, A.M., Wu, M.C.
   
@@ -26,6 +23,10 @@ title: Research
 
   
 ##### Publications
+
+* [A robust, scalable K-statistic for quantifying immune cell clustering in spatial proteomics data](https://arxiv.org/pdf/2412.08498) \
+  Wrobel, J.\*, **Song, H.\*** (2026) \
+  <span style="color:grey"> The Annals of Applied Statistics
 
 * [A fast and effective kernel two-sample test for large-scale data](https://link.springer.com/article/10.1007/s11222-026-10969-8?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20260829&utm_content=10.1007/s11222-026-10969-8) \
   **Song, H.**, Chen, H. (2026) \
