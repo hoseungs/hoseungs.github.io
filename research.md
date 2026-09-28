@@ -6,6 +6,9 @@ title: Research
 <small>(*: equal contribution, &nbsp;  __: advisee)</small>
 <h5 style="margin-top:0; padding-top:0;">Preprints</h5>
 
+* [Multiple change-point detection via bottom-up scanning](https://arxiv.org/pdf/2609.31116) \
+  <u>Park, J.</u>, Maeng, H.\*, **Song, H.\***
+
 * [Constructing microbiome co-occurrence networks with confidence: A conditional, nonparametric, inference-based approach](https://www.biorxiv.org/content/10.64898/2026.08.27.747483v1.full.pdf) \
   **Song, H.\***, Xiang, Y.\*, Liu, H., Ling, W., Plantinga, A.M., Srinivasan, S., Dun, Y., Zhao, N., Sun, S., Engel, S.M., Simon, N., Wu, M.C.
 
