@@ -12,7 +12,7 @@ title: Projects
   National Research Foundation of Korea
 
 * Development of a program for drafting mixing specifications based on compound properties \
-  PI, 정련 물성 기반 혼합 시방서 작성 프로그램 개발 (2026) \
+  PI, 정련 물성 기반 혼합 시방서 작성 프로그램 개발 (2026-2027) \
   Hankook Tire & Technology (한국타이어)
 
 * Development of a comprehensive change-point detection framework adaptive to complex data structures and dynamic environments \
