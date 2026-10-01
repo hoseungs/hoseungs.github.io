@@ -27,6 +27,7 @@ title: Group
 * Jinhyeok Park (zinhyeok [at] kaist.ac.kr)
 * Taejoon Yang (tj2875 [at] kaist.ac.kr)
 * Dogeon Lee (magictive [at] kaist.ac.kr)
+* Dongbeen Kim (dbk3216 [at] kaist.ac.kr)
 
 
 ##### Administrative Staff  
