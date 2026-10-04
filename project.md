@@ -3,6 +3,10 @@ layout: page
 title: Projects
 ---
 
+* Advisory on Building a Modular AI Pipeline for Intelligent Logistics Matching and Freight Rate Prediction \
+  지능형 물류 매칭 및 운임 예측을 위한 모듈형 AI 파이프라인 구축 자문 (2026-2027) \
+  AOROA Labs Co., Ltd. (아로아랩스)
+  
 * Development of an Integrated Sim-to-Real Platform for Physical AI-Enabled Collaborative Intelligence \
   Co-I, 피지컬AI 기반 협업지능 Sim-to-Real 통합 플랫폼 기술 개발 (2026-2030) \
   National IT Industry Promotion Agency
