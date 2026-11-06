@@ -9,7 +9,7 @@ title: Bio
 -- KAIST 
 
 * Post-Doctoral Research Fellow &ensp; (09/2021 - 04/2024) \\
--- Fred Hutchinson Cancer Research Center \\
+-- Fred Hutchinson Cancer Center \\
 -- Mentor: [Dr. Michael C. Wu](https://research.fredhutch.org/wu/en/michael-wu.html)
 
 * Data Science Research Intern &ensp; (06/2019 - 09/2019) \\
