@@ -3,6 +3,11 @@ layout: page
 title: Projects
 ---
 
+
+* AI Agent-Based Supply Chain Workflow Intelligence and Execution System: Demonstration and Commercialization \
+  Co-PI, AI 에이전트 기반 공급망 업무 지능화/실행 시스템 실증 및 상용화 (2026-2027) \
+  Ministry of Trade, Industry and Resources (산업통상부)
+
 * Advisory on Building a Modular AI Pipeline for Intelligent Logistics Matching and Freight Rate Prediction \
   지능형 물류 매칭 및 운임 예측을 위한 모듈형 AI 파이프라인 구축 자문 (2026-2027) \
   AOROA Labs Co., Ltd. (아로아랩스)
