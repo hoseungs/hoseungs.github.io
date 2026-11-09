@@ -33,7 +33,7 @@ title: Home
 
   [Department of Industrial and Systems Engineering](http://ise.kaist.ac.kr)  
   [Graduate School of Data Science](https://gsds.kaist.ac.kr/eng) \\
-  [Department of AX](https://ax.kaist.ac.kr) (Adjunct)\\
+  [Department of AX](https://aicollege.kaist.ac.kr/ax_eng) (Adjunct)\\
   [Graduate School of AI for Math](https://ai4math.kaist.ac.kr/en/) (Adjunct)\\
   [KAIST](https://www.kaist.ac.kr/en/) (Korea Advanced Institute of Science & Technology)
 
